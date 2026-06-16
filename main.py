@@ -9,8 +9,8 @@ import ffmpeg
 # CONFIGURAÇÕES OBRIGATÓRIAS (Substitua com os seus dados)
 # =====================================================================
 API_ID = 36373217                     # Seu App api_id do my.telegram.org (sem aspas)
-API_HASH = "28cff092054eab99813ce67f406a6d15"  # Seu App api_hash do my.telegram.org (com aspas)
-BOT_TOKEN = "7998605327:AAFBhFpU3r9kCsYHHbDzdSoqE76ENhcCWYU"     # Token do @BotFather (com aspas)
+API_HASH = ""  # Seu App api_hash do my.telegram.org (com aspas)
+BOT_TOKEN = ""     # Token do @BotFather (com aspas)
 # =====================================================================
 
 # Carrega o modelo Whisper (o modelo 'base' funciona bem para inglês)
